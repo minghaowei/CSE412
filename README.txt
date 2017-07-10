@@ -1,0 +1,2 @@
+PHP+MySQLi 用WAMPS
+如果使用自动加载数据的脚本,运行SQL的时候会遇到一些BUG
